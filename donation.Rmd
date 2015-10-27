@@ -1,0 +1,27 @@
+---
+title: "Sperm Donation"
+author: "Claus Ekstrøm"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+# Background
+
+
+Let $Y$ be the number of half-sibling matings per year. Then the 
+
+$$E(Y) = S m P
+$$
+
+
+Expected number of matings 
+$$m = \frac{k(k-1)}{2 \cdot 2} + \frac{k f}{2}
+$$
+
+> Idea 1: Take the distribution of $k$ and $f$ into account
+
+
+> Idea 2: Take the age difference into account
+###  Upper bound (worst case)
+
+
